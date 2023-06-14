@@ -1,0 +1,3 @@
+https://docs.spring-boot-admin.com/current/getting-started.html
+https://docs.spring.io/spring-boot/docs/2.0.x/actuator-api/html/
+https://spring.io/blog/2018/03/16/micrometer-spring-boot-2-s-new-application-metrics-collector
